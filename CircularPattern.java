@@ -29,3 +29,4 @@ class CircularPattern
 		System.out.println(check(111));
 	}
 }
+//Hello world
